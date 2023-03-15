@@ -1,3 +1,7 @@
 
 *.log
 Saved/Logs/TDS_Prototype.log
+Saved/AutoScreenshot.png
+Saved/Autosaves
+Saved/Autosaves/PackageRestoreData.json
+*.json

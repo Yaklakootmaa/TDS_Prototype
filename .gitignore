@@ -5,3 +5,7 @@ Saved/AutoScreenshot.png
 Saved/Autosaves
 Saved/Autosaves/PackageRestoreData.json
 *.json
+Saved/Logs/
+Intermediate/
+Saved/Config/CrashReportClient
+Saved/SourceControl/UncontrolledChangelists.json

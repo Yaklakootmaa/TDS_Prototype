@@ -5,7 +5,37 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GameDevelopment/TDS_Prototype/Content/MainLevel.umap"
+				"D:/GameDevelopment/TDS_Prototype/Content/MainLevel.umap",
+				"D:/GameDevelopment/TDS_Prototype/Content/BP_Player.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/BP_PlayerController.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/Input/IMC_PlayerInput.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/Input/IA_Rotation.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/BP_GameMode.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/BPI_Controls.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/Input/IA_Movement.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/Input/IA_Strafe.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/BP_Projectile.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/Input/IA_Action1.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/BP_EnemySpawner.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/BP_Enemy.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/BP_Enemy2.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/BPC_DamageSystem.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/BPI_DamageSystem.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/BPI_GameSystems.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/BP_CameraShake1.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/Component/BPC_DamageSystem.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/BP_Interface/BPI_Controls.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/BP_Interface/BPI_GameSystems.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/CameraShake/BP_CameraShake1.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/Enum/E_ShotingMode.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/Enum/E_ShootingType.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/Enum/E_ShootingMode2.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/Enum/E_ShootingProjectileType.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/Enum/E_ShootingMethod.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/Enum/E_ShootingMode.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/Input/IA_MovementForward.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/Input/IA_StrafeRight.uasset",
+				"D:/GameDevelopment/TDS_Prototype/Content/Input/IA_Shooting1.uasset"
 			]
 		}
 	]

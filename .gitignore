@@ -1,11 +1,6 @@
 
 *.log
-Saved/Logs/TDS_Prototype.log
-Saved/AutoScreenshot.png
-Saved/Autosaves
-Saved/Autosaves/PackageRestoreData.json
 *.json
-Saved/Logs/
 Intermediate/
-Saved/Config/CrashReportClient
-Saved/SourceControl/UncontrolledChangelists.json
+Saved/
+Platforms/
